@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raunakupadhyay
 - 👀 I’m interested in programming language
-- 🌱 I’m currently learning python
+- 🌱 I’m currently working on java
 - 📫 How to reach me :raunakupadhyay527@gmail.com
 - 😄 Pronouns:him
 
