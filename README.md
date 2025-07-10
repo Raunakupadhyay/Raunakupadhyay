@@ -1,4 +1,3 @@
-Hi there, I'm Raunak Upadhyay! 👋
 
 # Hi 👋 I'm Raunak Upadhyay
 
@@ -14,7 +13,7 @@ Hi there, I'm Raunak Upadhyay! 👋
 ---
 
 ## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raunakupadhyay/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raunak-upadhyay-375720287/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raunakupadhyay527@gmail.com)
 
 ---
