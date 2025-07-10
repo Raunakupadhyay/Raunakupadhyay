@@ -24,8 +24,9 @@
 
 ## 📊 GitHub Stats
 ![Raunak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raunakupadhyay&show_icons=true&theme=radical)
-![Raunak's Streak](https://streak-stats.demolab.com/?user=raunakupadhyay&theme=radical)
 ![Raunak's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raunakupadhyay&layout=compact&theme=radical)
+![Raunak's Streak](https://github-readme-streak-stats-eight.vercel.app/?user=raunakupadhyay&theme=radical)
+
 
 ---
 
@@ -39,11 +40,6 @@
 👯 I’m looking to collaborate on open-source projects related to Java or Python.
 
 📫 How to reach me: raunakupadhyay527@gmail.com
-
-
-HTML/CSS
-
-JavaScript
 
 <!---
 Raunakupadhyay/Raunakupadhyay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
