@@ -1,102 +1,111 @@
-<h1 align="center">Hi 👋, I'm Raunak Upadhyay</h1>
-<h3 align="center">Software Developer | Java | AI/ML | Full Stack Developer</h3>
+<div align="center">
 
-<p align="center">
-Passionate about building scalable applications, AI-powered solutions, and solving Data Structures & Algorithms problems.
-</p>
+# Hi 👋 I'm Raunak Upadhyay
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=raunakupadhyay&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Developer;Java+Developer;Full+Stack+Developer;AI+%7C+Machine+Learning+Enthusiast;Open+Source+Contributor;Always+Learning+Something+New"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Welcome!&fontSize=60&fontColor=ffffff"/>
+
+</div>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
+
+<img align="right" width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+```java
+class Raunak {
+
+    String role = "Software Developer";
+
+    String[] languages = {
+        "Java",
+        "Python",
+        "JavaScript",
+        "SQL"
+    };
+
+    String[] interests = {
+        "Backend",
+        "AI",
+        "Machine Learning",
+        "System Design"
+    };
+
+    String currentFocus =
+        "Building AI Powered Applications";
+
+}
+```
 
 - 🎓 B.Tech CSE Student
-- 💻 Interested in Software Development, AI/ML and Backend Development
-- 🌱 Currently learning System Design, Spring Boot and Advanced DSA
-- 🤖 Building AI-powered applications using Python and Machine Learning
-- ⚡ Solved 100+ LeetCode problems
-- 🎯 Preparing for Software Development Engineer (SDE) roles
-- 📫 Email: **raunakupadhyay527@gmail.com**
+- 💻 Passionate about Software Engineering
+- 🤖 AI & Machine Learning Enthusiast
+- 🌱 Learning Spring Boot & System Design
+- 🚀 Building Real-World Projects
+- 🎯 Goal: Crack SDE Roles
 
 ---
 
-## 🛠 Tech Stack
+# 🚀 Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,mysql" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript,html,css,react,nodejs,express,spring,mysql,mongodb,git,github,vscode,postman,tensorflow,flask"/>
 
-### Frameworks & Libraries
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,tensorflow" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
 </p>
 
 ---
 
-# 📌 Featured Projects
+# 🚀 Featured Projects
 
-### 🎓 Educademy – AI Learning Companion
+## 🎓 Educademy
 
-- AI-powered study assistant
-- PDF Summarization
+> AI Learning Companion
+
+✨ Features
+
+- AI Summarization
 - Flashcards
-- MCQ Generation
+- MCQ Generator
 - Voice Assistant
+- PDF Analysis
 - Progress Tracking
 
-**Tech Stack**
-
-Python • Flask • HuggingFace • FAISS • HTML • CSS • JavaScript
+Python • Flask • HuggingFace • FAISS
 
 ---
 
-### 🔐 Secure File Transfer System
+## 🔐 Secure File Transfer
 
-- End-to-end encrypted file transfer
-- User authentication
-- Secure communication
+Encrypted Java Desktop Application
 
-**Tech Stack**
-
-Java • Socket Programming • Encryption
+Java • Swing • Socket Programming
 
 ---
 
-### 🌐 Portfolio Website
+## 🌐 Portfolio Website
 
-Responsive personal portfolio showcasing projects, certifications and achievements.
+Responsive Portfolio
 
-**Tech Stack**
-
-HTML • CSS • JavaScript
+HTML CSS JavaScript
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Analytics
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=raunakupadhyay&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=raunakupadhyay&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunakupadhyay&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunakupadhyay&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raunakupadhyay&theme=tokyonight"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=raunakupadhyay&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -106,34 +115,57 @@ HTML • CSS • JavaScript
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=raunakupadhyay&theme=algolia&margin-w=10&margin-h=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=raunakupadhyay&theme=algolia&no-frame=true&row=2&column=4"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Activity Graph
 
-[![Raunak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raunakupadhyay&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raunakupadhyay&theme=tokyo-night"/>
+
+</p>
 
 ---
 
-# 🌐 Connect with Me
+# 🐍 Contribution Snake
 
-<p>
+<p align="center">
 
-<a href="https://www.linkedin.com/in/raunak-upadhyay-375720287/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🌎 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:raunakupadhyay527@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<a href="mailto:YOUR_EMAIL">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 </p>
 
 ---
 
-## 💡 Quote
 
-> *"Consistency beats intensity. Build. Learn. Repeat."*
+<div align="center">
+
+### ⭐ Thanks for visiting!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=120&section=footer"/>
+
+</div>
