@@ -1,47 +1,139 @@
+<h1 align="center">Hi 👋, I'm Raunak Upadhyay</h1>
+<h3 align="center">Software Developer | Java | AI/ML | Full Stack Developer</h3>
 
-# Hi 👋 I'm Raunak Upadhyay
+<p align="center">
+Passionate about building scalable applications, AI-powered solutions, and solving Data Structures & Algorithms problems.
+</p>
 
-## 💼 Tech Stack
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=ai&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=raunakupadhyay&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
-## 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raunak-upadhyay-375720287/)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:raunakupadhyay527@gmail.com)
+## 🚀 About Me
+
+- 🎓 B.Tech CSE Student
+- 💻 Interested in Software Development, AI/ML and Backend Development
+- 🌱 Currently learning System Design, Spring Boot and Advanced DSA
+- 🤖 Building AI-powered applications using Python and Machine Learning
+- ⚡ Solved 100+ LeetCode problems
+- 🎯 Preparing for Software Development Engineer (SDE) roles
+- 📫 Email: **raunakupadhyay527@gmail.com**
 
 ---
 
-## 📊 GitHub Stats
-![Raunak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=raunakupadhyay&show_icons=true&theme=radical)
-![Raunak's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raunakupadhyay&layout=compact&theme=radical)
-![Raunak's Streak](https://github-readme-streak-stats-eight.vercel.app/?user=raunakupadhyay&theme=radical)
+## 🛠 Tech Stack
 
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,html,css,mysql" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,tensorflow" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+</p>
 
 ---
 
-## 🚀 Fun Fact
-- 🌱 I’m currently learning GANs, AI Tutors, and ML.
-  
-- 💡 I build apps like Secure File Transfer using Java & AI.
-  
-🌱 I’m currently learning more about software development and algorithms.
+# 📌 Featured Projects
 
-👯 I’m looking to collaborate on open-source projects related to Java or Python.
+### 🎓 Educademy – AI Learning Companion
 
-📫 How to reach me: raunakupadhyay527@gmail.com
+- AI-powered study assistant
+- PDF Summarization
+- Flashcards
+- MCQ Generation
+- Voice Assistant
+- Progress Tracking
 
-<!---
-Raunakupadhyay/Raunakupadhyay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Tech Stack**
+
+Python • Flask • HuggingFace • FAISS • HTML • CSS • JavaScript
+
+---
+
+### 🔐 Secure File Transfer System
+
+- End-to-end encrypted file transfer
+- User authentication
+- Secure communication
+
+**Tech Stack**
+
+Java • Socket Programming • Encryption
+
+---
+
+### 🌐 Portfolio Website
+
+Responsive personal portfolio showcasing projects, certifications and achievements.
+
+**Tech Stack**
+
+HTML • CSS • JavaScript
+
+---
+
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=raunakupadhyay&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raunakupadhyay&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raunakupadhyay&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=raunakupadhyay&theme=algolia&margin-w=10&margin-h=10"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+[![Raunak's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=raunakupadhyay&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 🌐 Connect with Me
+
+<p>
+
+<a href="https://www.linkedin.com/in/raunak-upadhyay-375720287/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:raunakupadhyay527@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+## 💡 Quote
+
+> *"Consistency beats intensity. Build. Learn. Repeat."*
